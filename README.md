@@ -24,10 +24,4 @@ The raw data collected from Berkley Earth has been processed and cleaned by many
 Dataset Used – Link.
 
  
-
-The four main components of the study are:
-
-Trend
-Seasonality
-Cyclicity
-Irregularity
+The project can be seen at the following link- https://www.divyanshaarora.com/project-10
